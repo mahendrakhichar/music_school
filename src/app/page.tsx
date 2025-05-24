@@ -1,7 +1,7 @@
 // import Image from "next/image";
 import { FeaturedCourses } from "@/components/courses/FeaturedCourses";
 import Hero from "@/components/hero/hero";
-import { div } from "motion/react-client"
+
 
 export default function Home() {
   return (

@@ -1,4 +1,4 @@
-import { div } from "motion/react-client";
+
 import Link from "next/link"
 import { Spotlight } from "@/components/ui/Spotlight";
 import { Button } from "@/components/ui/moving-border";
